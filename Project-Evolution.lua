@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Evolution/Main/main/Loader.lua", true))()
+loadstring(game:HttpGet(('https://luascrip.github.io/luascriptsroblox/Project-Evolution-main.lua'),true))()
