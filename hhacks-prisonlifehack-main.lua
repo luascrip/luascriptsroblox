@@ -1,4 +1,3 @@
-if game.PlaceId == 155615604 then
 local hack = Instance.new("ScreenGui")
 local logo = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
